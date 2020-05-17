@@ -1,6 +1,2 @@
 config:
-<<<<<<< HEAD
  info: "master branch,springcloud-config/config-dev.yml version=1111111111111"
-=======
- info: "master branch,springcloud-config/config-dev.yml version=1"
->>>>>>> e20abf966e5904c993a44738a76f81c6a098c875
